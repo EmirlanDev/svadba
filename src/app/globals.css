@@ -165,3 +165,7 @@ body {
     transform: rotateX(-180deg);
   }
 }
+
+button {
+  outline: none;
+}
