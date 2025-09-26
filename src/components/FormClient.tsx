@@ -53,7 +53,7 @@ export default function FormClient() {
 
       <fieldset className="space-y-2">
         <legend className="mb-2 font-medium">
-          Бешик тоюбузга катышасыздарбы?
+          Үйлөнүү тоюбузга катышасыздарбы?
         </legend>
         <label className="flex items-center gap-2">
           <input
