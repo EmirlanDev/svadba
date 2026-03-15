@@ -27,7 +27,7 @@ export default function MusicWithSound() {
     const audio = audioRef.current;
     if (!audio) return;
 
-    console.log(audio.duration);
+    // console.log(audio.duration);
 
     const setAudioDuration = () => setDuration(audio.duration);
     audio.addEventListener("loadedmetadata", setAudioDuration);

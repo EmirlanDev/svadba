@@ -83,7 +83,7 @@ const shadows = Shadows_Into_Light({
 });
 
 export const metadata: Metadata = {
-  title: "Ринат менен Гулзаттын үйлөнүү тоюна чакыруу",
+  title: "Сыймык менен Мүрөктүн үйлөнүү тоюна чакыруу",
   // description: "",
 };
 

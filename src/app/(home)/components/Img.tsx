@@ -1,4 +1,4 @@
-import textImg from "../../../assets/textImg.png";
+import textImg from "../../../assets/textImg.jpg";
 import Image from "next/image";
 
 export default function Img() {
@@ -6,7 +6,11 @@ export default function Img() {
     <section className="">
       <div className="container">
         <div className="relative mt-[-82px]">
-          <Image src={textImg} alt="text img" />
+          <Image
+            className="h-[300px] object-cover"
+            src={textImg}
+            alt="text img"
+          />
           <div className="second-gr flex items-end justify-center absolute top-0 z-10 w-full h-full">
             <h2
               data-aos="zoom-in-up"

@@ -58,7 +58,7 @@ export default function SliderClient({ images }: SliderProps) {
           <button
             key={idx}
             onClick={() => setCurrent(idx)}
-            className={`w-3 h-3 rounded-full ${
+            className={`w-2 h-2 rounded-full ${
               idx === current ? "bg-white" : "bg-white/40"
             }`}
           />

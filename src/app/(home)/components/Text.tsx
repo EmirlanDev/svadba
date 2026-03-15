@@ -10,9 +10,9 @@ export default function Text() {
             data-aos="zoom-in-up"
             className="max-w-[235px] text-center text-[18px]"
           >
-            Урматтуу туугандар, <br /> бир туугандар, жээндер, <br /> бөлөлөр,
-            куда-сөөк,
-            <br /> дос-жарандар, кесиптештер <br /> жана кошуналар!
+            Сүйүнчу сиздер менен бөлүшөлу, кубанычта бакыт болуп төгүлөлү.
+            Дасторкондон даам сызып, бата берип, кудай буйруп тоюбуздан
+            көрүшөлү.
           </h2>
           <div className="absolute top-0 z-20 w-[100%] h-[330px] flex justify-between">
             <Image className="self-start" src={flower} alt="flower" />

@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 export default function Countdown() {
   // Укажи конечную дату (например, через 15 дней)
-  const targetDate = new Date("2025-10-19T15:00:00").getTime();
+  const targetDate = new Date("2026-04-25T15:00:00").getTime();
 
   const [timeLeft, setTimeLeft] = useState({
     days: 0,

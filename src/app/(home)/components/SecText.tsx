@@ -10,7 +10,7 @@ export default function SecText() {
             data-aos="zoom-in-up"
             className="hero-text text-[50px] text-start ml-[25px]"
           >
-            Ринат
+            Сыймык
           </h2>
           <h3
             data-aos="zoom-in-up"
@@ -20,9 +20,9 @@ export default function SecText() {
           </h3>
           <h2
             data-aos="zoom-in-up"
-            className="hero-text text-[50px] text-end mt-[-5px] mr-[15px]"
+            className="italic hero-text text-[50px] text-end mt-[-5px] mr-[15px]"
           >
-            Гулзаттын
+            Мүрөктүн
           </h2>
         </div>
         <div className="relative flex justify-center items-center h-[330px] mt-[-35px]">
@@ -30,10 +30,7 @@ export default function SecText() {
             data-aos="zoom-in-up"
             className="max-w-[235px] text-center text-[18px]"
           >
-            Үйлөнүү тоюбузга <br /> арналган салтанаттуу <br /> ак дасторкондун
-            <br />
-            кадырлуу коногу болуп <br /> беришиңизди чоң урмат <br /> менен
-            чакырабыз!
+            Үйлөнүү үлпөт тоюна арналган салтанаттуу ак дасторконубуздан даам татып, батаңыздарды берип, кадырлуу коногубуз болуп кетүүго
           </h2>
           <div className="absolute top-0 z-20 w-[100%] h-[330px] flex justify-between">
             <Image className="self-start" src={flower} alt="flower" />

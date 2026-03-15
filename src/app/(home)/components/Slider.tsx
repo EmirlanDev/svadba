@@ -10,9 +10,11 @@ export default function Slider() {
           </h2>
           <SliderClient
             images={[
-              "/images/slideOne.png",
-              "/images/slideTwo.png",
-              "/images/slideThree.png",
+              "/images/one.jpg",
+              "/images/four.jpg",
+              "/images/three.jpg",
+              "/images/two.jpg",
+              "/images/six.jpg",
             ]}
           />
         </div>

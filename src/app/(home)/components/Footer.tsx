@@ -17,7 +17,7 @@ export default function Footer() {
         <div className="flex gap-2 items-center">
           {/* Instagram */}
           <Link
-            href="https://www.instagram.com/okeans_studio/"
+            href="https://www.instagram.com/emirlan.amangeldiev/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
@@ -56,7 +56,7 @@ export default function Footer() {
 
           {/* WhatsApp */}
           <Link
-            href="https://wa.me/996995102180 "
+            href="https://wa.me/996707233727"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="WhatsApp"
@@ -94,7 +94,7 @@ export default function Footer() {
           </Link>
 
           {/* Telegram */}
-          {/* <Link
+          <Link
             href="https://t.me/Emirlan_FrontEndDev"
             target="_blank"
             rel="noopener noreferrer"
@@ -130,7 +130,7 @@ export default function Footer() {
                 </g>
               </g>
             </svg>
-          </Link> */}
+          </Link>
         </div>
       </div>
     </footer>
