@@ -40,8 +40,3 @@ export default function Map() {
     </section>
   );
 }
-
-("Максимально ужасно");
-
-if ("aaa".length > 1) {
-}
