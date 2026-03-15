@@ -32,7 +32,7 @@ export default function FormClient() {
       className="w-full max-w-md space-y-6 rounded-xl bg-white p-6 mx-auto"
     >
       <h1 className="text-center text-[18px] font-medium">
-        Анкетаны <span className="font-semibold">15.10.25</span> не чейин
+        Анкетаны <span className="font-semibold">15.04.26</span> не чейин
         толтуруп берүүнүздөрдү суранабыз
       </h1>
 
