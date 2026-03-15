@@ -37,10 +37,8 @@ export default function Map() {
           ></iframe>
         </div>
         <div className="text-center">
-          <h2 className="hero-text text-[32px] font-bold">Той ээлери:</h2>
-          <h3 className="hero-text text-[24px] font-semibold">
-            Эркин менен Замира
-          </h3>
+          <h2 className="hero-text text-[32px] font-bold">Той ээси:</h2>
+          <h3 className="hero-text text-[24px] font-semibold">Венера</h3>
         </div>
       </div>
     </section>
